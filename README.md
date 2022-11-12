@@ -1,6 +1,6 @@
 
-# :warning: This project is no longer maintained :warning:
-Thanks for all of your time and support. This project is now publically archived. We encourage you to fork the repo and make it your own.
+# :warning: This project is set up to discover interest in keeping Pizzly alive :warning:
+The original project is now publically archived. This fork is made to check if there is interest in further maintenance and development of Pizzly. Feel free to create an issue, a PR or reach out any other way.
 
 ---
 
